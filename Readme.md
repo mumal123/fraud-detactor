@@ -1,6 +1,6 @@
 ## Fraud Detector – Streamlit App
 
-A simple web app to predict whether a customer might be involved in fraudulent activity based on transaction data.
+A simple web app to predict whether a customer might be involved in fraudulent activity based on certain data.
 
 ---
 
